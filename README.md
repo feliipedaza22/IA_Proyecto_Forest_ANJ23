@@ -1,6 +1,6 @@
 # Project Forest Cover Type Prediction
 
-Preddcion del tipo de cubierta forestal a partir de variables netamente cartograficas
+Prediccion del tipo de cubierta forestal a partir de variables netamente cartograficas
 
 ## Informacion de miembros del equipo
 
