@@ -17,3 +17,4 @@ https://www.kaggle.com/competitions/forest-cover-type-prediction/overview
 
 ## Video
 - [ENTREGA 2](https://youtu.be/O3IKjGGoa6Y)
+- [ENTREGA INFORME FINAL)(https://youtu.be/jBSOdFDXxmA).
